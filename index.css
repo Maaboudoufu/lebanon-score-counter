@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    font-size: 40px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url(https://media.tenor.com/H1qyS8bDfHAAAAAM/lebron-james-screaming-lebron-james-yelling.gif);
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 40;
+    margin-top: 20;
+    color: black;
+    
+}
+
+h2 {
+    font-size: 120;
+    margin: auto;
+    color: white;
+}
+
+h3 {
+    font-size: 50;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: auto;
+}
+
+button {
+    font-size: 50;
+    margin-top: 20;
+    background-color: black;
+    color: white
+}
+
